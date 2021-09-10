@@ -2,7 +2,7 @@
 % Please edit documentation in R/Funcoes.R
 \name{sortear_marmita}
 \alias{sortear_marmita}
-\title{Fun\u00e7\u00e3o para sortear uma marmita, usando a base de marmitas}
+\title{Função para sortear uma marmita, usando a base de marmitas}
 \usage{
 sortear_marmita(tipo = c("Sopa", "Prato", "Doce"), preco_maximo = 50)
 }
@@ -13,7 +13,7 @@ sortear_marmita(tipo = c("Sopa", "Prato", "Doce"), preco_maximo = 50)
 Uma tibble com uma marmita para comprar!
 }
 \description{
-Fun\u00e7\u00e3o para sortear uma marmita, usando a base de marmitas
+Função para sortear uma marmita, usando a base de marmitas
 }
 \examples{
 sortear_marmita()
