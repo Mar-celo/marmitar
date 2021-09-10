@@ -41,7 +41,7 @@ buscar_marmitas_veganas <- function() {
 
 
 
-#' Fun\u00e7\u00e3o para sortear uma marmita, usando a base de marmitas
+#' Função para sortear uma marmita, usando a base de marmitas
 #'
 #' @param tipo
 #' @param preco_maximo
